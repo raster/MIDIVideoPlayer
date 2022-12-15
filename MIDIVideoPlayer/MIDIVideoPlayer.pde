@@ -1,7 +1,7 @@
 /*
  * MIDIVideoPlayer.pde
  *
- * Use your MIDI controller to play a videos
+ * Use your MIDI controller to play a video
  *
  * Pete Prodoehl <pete@2xlnetworks.com>
  *
